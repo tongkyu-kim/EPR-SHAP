@@ -96,14 +96,5 @@ EPR-SHAP/
 * Develop evidence for targeted and adaptive EPR governance strategies
 * Contribute to research on circular economy governance and environmental policy design
 
----
-
-## Target Journals
-
-* Resources, Conservation & Recycling (RCR)
-* Sustainable Production and Consumption (SPC)
-* Business Strategy and the Environment (BSE)
-* Technological Forecasting and Social Change (TFSC)
-
 ```
 ```
