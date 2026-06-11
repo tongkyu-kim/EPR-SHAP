@@ -1,0 +1,61 @@
+Subgroup,Group,Arm,Mean CATE,SE,N
+Export intensity,High export,Enforcement,9.5485,0.0114,312
+Export intensity,Low export,Enforcement,9.4545,0.0125,288
+Export intensity,High export,Reputation,8.8255,0.0118,312
+Export intensity,Low export,Reputation,8.7408,0.0133,288
+Export intensity,High export,Market,8.3561,0.012,312
+Export intensity,Low export,Market,8.4639,0.0123,288
+ESG reporting,ESG reporter,Enforcement,9.4911,0.0153,174
+ESG reporting,No ESG,Enforcement,9.5084,0.0104,426
+ESG reporting,ESG reporter,Reputation,8.8633,0.0153,174
+ESG reporting,No ESG,Reputation,8.7528,0.0107,426
+ESG reporting,ESG reporter,Market,8.4144,0.0159,174
+ESG reporting,No ESG,Market,8.4051,0.0107,426
+Prior inspection,Inspected,Enforcement,9.5279,0.0134,255
+Prior inspection,Not inspected,Enforcement,9.4852,0.0112,345
+Prior inspection,Inspected,Reputation,8.7708,0.0128,255
+Prior inspection,Not inspected,Reputation,8.7952,0.0125,345
+Prior inspection,Inspected,Market,8.4093,0.0135,255
+Prior inspection,Not inspected,Market,8.4067,0.0117,345
+ISO 14001,ISO 14001,Enforcement,9.4408,0.0151,191
+ISO 14001,Not certified,Enforcement,9.5325,0.0102,409
+ISO 14001,ISO 14001,Reputation,8.8064,0.0158,191
+ISO 14001,Not certified,Reputation,8.7748,0.011,409
+ISO 14001,ISO 14001,Market,8.3871,0.0165,191
+ISO 14001,Not certified,Market,8.4175,0.0104,409
+Firm size,Giant,Enforcement,9.3837,0.0277,29
+Firm size,Large,Enforcement,9.4981,0.0149,171
+Firm size,Medium,Enforcement,9.5671,0.0194,129
+Firm size,Micro,Enforcement,9.5856,0.0389,32
+Firm size,Small,Enforcement,9.5212,0.0186,139
+Firm size,Very large,Enforcement,9.4138,0.0185,100
+Firm size,Giant,Reputation,8.7893,0.0407,29
+Firm size,Large,Reputation,8.856,0.0148,171
+Firm size,Medium,Reputation,8.8473,0.0184,129
+Firm size,Micro,Reputation,8.706,0.0409,32
+Firm size,Small,Reputation,8.6699,0.0177,139
+Firm size,Very large,Reputation,8.7663,0.022,100
+Firm size,Giant,Market,8.4326,0.0453,29
+Firm size,Large,Market,8.4307,0.0167,171
+Firm size,Medium,Market,8.3841,0.019,129
+Firm size,Micro,Market,8.3946,0.0338,32
+Firm size,Small,Market,8.3941,0.0178,139
+Firm size,Very large,Market,8.4154,0.0226,100
+Supply chain position,Assembler,Enforcement,9.5281,0.0212,112
+Supply chain position,Brand,Enforcement,9.4991,0.0274,43
+Supply chain position,Retailer,Enforcement,9.4409,0.05,13
+Supply chain position,Tier-1,Enforcement,9.483,0.0171,170
+Supply chain position,Tier-2,Enforcement,9.5173,0.0158,171
+Supply chain position,Tier-3,Enforcement,9.4957,0.0211,91
+Supply chain position,Assembler,Reputation,8.7303,0.0202,112
+Supply chain position,Brand,Reputation,8.7643,0.0357,43
+Supply chain position,Retailer,Reputation,8.6308,0.0688,13
+Supply chain position,Tier-1,Reputation,8.7552,0.0169,170
+Supply chain position,Tier-2,Reputation,8.8411,0.0162,171
+Supply chain position,Tier-3,Reputation,8.8334,0.0213,91
+Supply chain position,Assembler,Market,8.3881,0.019,112
+Supply chain position,Brand,Market,8.3735,0.0316,43
+Supply chain position,Retailer,Market,8.3293,0.0432,13
+Supply chain position,Tier-1,Market,8.3955,0.018,170
+Supply chain position,Tier-2,Market,8.4424,0.0161,171
+Supply chain position,Tier-3,Market,8.4176,0.0233,91

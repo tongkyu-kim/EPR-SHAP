@@ -1,0 +1,28 @@
+# Core scientific stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Machine learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Causal inference
+econml>=0.15.0
+
+# Explainability
+shap>=0.44.0
+
+# Regression / inference
+statsmodels>=0.14.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: progress bars in notebooks
+tqdm>=4.65.0

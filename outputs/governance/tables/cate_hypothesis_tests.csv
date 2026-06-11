@@ -1,0 +1,4 @@
+Hypothesis,CATE (high mod.),CATE (low mod.),Difference,t_stat,p_value,n_high,n_low
+H2: ENV_INSP=1 → stronger Regulatory response,9.5279,9.4852,0.0428,2.4455,0.0148,255,345
+H3: High EO_MEAN → stronger Reputational response,8.8142,8.7487,0.0655,3.6539,0.0003,331,269
+H1: High EXPORT_PCT → stronger Market response,8.3561,8.4639,-0.1078,-6.2725,0.0,312,288

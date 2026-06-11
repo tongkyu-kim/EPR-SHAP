@@ -1,0 +1,16 @@
+Arm,Rank,Feature,Mean |SHAP|,Direction,Interpretation
+Regulatory,1,RC_MEAN,0.12674,+,Higher RC_MEAN -> stronger regulatory pressure effect
+Regulatory,2,RP_MEAN,0.06337,+,Higher RP_MEAN -> stronger regulatory pressure effect
+Regulatory,3,CC_MEAN,0.044089,-,Higher CC_MEAN -> weaker regulatory pressure effect
+Regulatory,4,EXPORT_PCT,0.043785,+,Higher EXPORT_PCT -> stronger regulatory pressure effect
+Regulatory,5,EMP_SIZE,0.043278,-,Higher EMP_SIZE -> weaker regulatory pressure effect
+Reputational,1,RC_MEAN,0.107669,+,Higher RC_MEAN -> stronger reputational pressure effect
+Reputational,2,MP_MEAN,0.059282,+,Higher MP_MEAN -> stronger reputational pressure effect
+Reputational,3,EXPORT_PCT,0.056005,+,Higher EXPORT_PCT -> stronger reputational pressure effect
+Reputational,4,EO_MEAN,0.052682,+,Higher EO_MEAN -> stronger reputational pressure effect
+Reputational,5,REP_MEAN,0.051391,+,Higher REP_MEAN -> stronger reputational pressure effect
+Market,1,EO_MEAN,0.103447,+,Higher EO_MEAN -> stronger market pressure effect
+Market,2,RC_MEAN,0.085797,-,Higher RC_MEAN -> weaker market pressure effect
+Market,3,EXPORT_PCT,0.073463,-,Higher EXPORT_PCT -> weaker market pressure effect
+Market,4,OWNERSHIP,0.069108,+,Higher OWNERSHIP -> stronger market pressure effect
+Market,5,RP_MEAN,0.052423,+,Higher RP_MEAN -> stronger market pressure effect

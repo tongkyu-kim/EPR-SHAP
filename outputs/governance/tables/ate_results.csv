@@ -1,0 +1,10 @@
+Outcome,Arm,ATE,SE,p,95% CI
+Budget Allocation: EPR Compliance (%),Regulatory,9.5123,0.4464,0.0,"[8.6374, 10.3872]"
+Budget Allocation: EPR Compliance (%),Reputational,8.8702,0.4503,0.0,"[7.9876, 9.7528]"
+Budget Allocation: EPR Compliance (%),Market,8.8353,0.4325,0.0,"[7.9876, 9.6831]"
+EPR Compliance Intentions (1–7),Regulatory,0.9997,0.1052,0.0,"[0.7935, 1.2059]"
+EPR Compliance Intentions (1–7),Reputational,0.6794,0.1067,0.0,"[0.4703, 0.8885]"
+EPR Compliance Intentions (1–7),Market,0.7889,0.1061,0.0,"[0.581, 0.9968]"
+Policy Preferences (1–7),Regulatory,0.7538,0.1023,0.0,"[0.5532, 0.9544]"
+Policy Preferences (1–7),Reputational,0.5695,0.103,0.0,"[0.3676, 0.7714]"
+Policy Preferences (1–7),Market,0.6653,0.1049,0.0,"[0.4597, 0.8708]"

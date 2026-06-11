@@ -1,0 +1,5 @@
+Scenario,Strategy,Mean CATE (pp),SD of CATE,Total CATE gain,Expected BAE_EPR,Firms assigned (%),Gain vs. best universal (pp)
+A: Universal Enforcement,Universal Enforcement,9.5034,0.2116,5702.01,21.1367,100.0,0.0
+B: Universal Reputation,Universal Reputation,8.7849,0.2209,5270.91,20.4182,100.0,-0.7185
+C: Universal Market,Universal Market,8.4078,0.2168,5044.69,20.0412,100.0,-1.0956
+D: Firm-Specific Optimal,Firm-Specific Optimal,9.5034,0.2116,5702.01,21.1367,100.0,0.0

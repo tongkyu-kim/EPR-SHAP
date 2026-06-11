@@ -1,0 +1,55 @@
+============================================================
+EPR SURVEY - PREPROCESSING REPORT
+============================================================
+
+Input : C:\Users\tkkim\OneDrive - ASEAN-Korea Centre\문서\GitHub\EPR-SHAP\data\raw\survey_data_test.xlsx
+Output: C:\Users\tkkim\OneDrive - ASEAN-Korea Centre\문서\GitHub\EPR-SHAP\data\processed\survey_data_clean.csv
+
+[1] LOADING DATA
+  600 respondents × 75 columns
+
+  Arm distribution:
+    Control: n=150
+    Regulatory: n=150
+    Reputational: n=150
+    Market: n=150
+
+[2] STRUCTURAL VALIDATION
+✓ All required columns present
+✓ TREAT values: [0, 1, 2, 3]
+
+[3] RANGE CLEANING
+✓ All values within expected ranges
+
+[4] CONSTRUCT MEANS (recomputed from items)
+✓ All construct means recomputed from items (min_items=3)
+
+[5] BUDGET ALLOCATION VALIDATION
+✓ BAE columns sum to 100 for all rows
+  BAE_EPR range: 4.0 – 35.0%  (mean=18.44%)
+
+[6] MISSING VALUES
+✓ No missing values in key columns
+
+[7] DERIVED COLUMNS
+✓ Added TREAT_LABEL, treatment dummies (T_*), CI_ZSCORED
+
+[8] RANDOMISATION BALANCE CHECK
+  0/17 covariates fail p > 0.05 threshold
+  ✓ All covariates balanced across arms
+
+[9] MANIPULATION CHECK
+  MC1 (Regulatory salience), MC2 (Reputational), MC3 (Market)
+  Mean scores by arm:
+    Control       : MC1=4.45  MC2=4.30  MC3=3.79
+    Market        : MC1=4.61  MC2=4.47  MC3=5.17
+    Regulatory    : MC1=5.66  MC2=4.29  MC3=4.01
+    Reputational  : MC1=4.62  MC2=5.50  MC3=4.23
+
+[10] OUTCOME SUMMARY BY ARM
+              BAE_EPR  CI_MEAN  PP_MEAN
+TREAT_LABEL                            
+Control        11.633    4.075    4.023
+Market         20.447    4.851    4.713
+Regulatory     21.147    5.063    4.780
+Reputational   20.527    4.745    4.613

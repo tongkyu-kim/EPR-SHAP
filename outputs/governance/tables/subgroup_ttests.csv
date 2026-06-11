@@ -1,0 +1,13 @@
+Subgroup,Arm,Mean CATE (high),Mean CATE (low),Difference,t_stat,p_value,Sig,n_high,n_low
+Export intensity,Enforcement,9.5485,9.4545,0.094,5.5576,0.0,***,312,288
+Export intensity,Reputation,8.8255,8.7408,0.0846,4.7541,0.0,***,312,288
+Export intensity,Market,8.3561,8.4639,-0.1078,-6.2725,0.0,***,312,288
+ESG reporting,Enforcement,9.4911,9.5084,-0.0173,-0.9334,0.3513,,174,426
+ESG reporting,Reputation,8.8633,8.7528,0.1105,5.9196,0.0,***,174,426
+ESG reporting,Market,8.4144,8.4051,0.0092,0.4812,0.6307,,174,426
+Prior inspection,Enforcement,9.5279,9.4852,0.0428,2.4455,0.0148,*,255,345
+Prior inspection,Reputation,8.7708,8.7952,-0.0244,-1.362,0.1737,,255,345
+Prior inspection,Market,8.4093,8.4067,0.0026,0.1466,0.8835,,255,345
+ISO 14001,Enforcement,9.4408,9.5325,-0.0917,-5.026,0.0,***,191,409
+ISO 14001,Reputation,8.8064,8.7748,0.0317,1.6489,0.1,,191,409
+ISO 14001,Market,8.3871,8.4175,-0.0304,-1.5554,0.1208,,191,409
